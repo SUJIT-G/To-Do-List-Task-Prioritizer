@@ -38,6 +38,10 @@ JavaScript: For all the core functionality, including task management, filtering
 Task Categories/Tags: Add a system for organizing tasks by category (e.g., Work, Personal, Shopping).
 
 Notifications: Implement browser notifications for upcoming task due dates.
+git clone https://github.com/SUJIT-G/To-Do-List-Task-Prioritizer.git
+cd To-Do-List-Task-Prioritizer
+open index.html
+
 
 User Accounts: Use a backend to allow users to save and sync their to-do list across multiple devices.
 
